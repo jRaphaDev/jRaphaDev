@@ -30,6 +30,6 @@
   <a href="https://wa.me/5511992631777" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992631777"/></a>
 
-  <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
+  <img src="./static/mimoje.png" align="left" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
 
 </p>  
