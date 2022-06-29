@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    Atuo como <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Coordenador/Lider Técnico</a> no banco Itaú. 
+    Atualmente atuando como Líder <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">(Trident Carrer Model)</a>  no time de arquitetura de soluções no banco Itaú. 
     Com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribuo com fortes vieses de qualidade, modernização e ownership no delivery de software. 
 </p>
 
