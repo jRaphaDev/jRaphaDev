@@ -10,6 +10,8 @@
     Com mindset de startup desempenho um papel fundamental na disponibilização e experimentação de funcionalidades estratégicas de negócio com agilidade.
     Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 
+</p>
+<p align="left">
   <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
 
 </p>
