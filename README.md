@@ -3,12 +3,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    Atuando como Líder <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">(Trident Carrer Model)</a> no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership no desenvolvimento de software. 
+    Atuando como líder (<a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">Trident Carrer Model</a>) no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em delivery de software e liderança, contribuo com fortes vieses de qualidade, modernização e ownership no desenvolvimento de software. 
 </p>
 
 <p align="left">
     Com mindset de startup desempenho um papel fundamental na experimentação de novas funcionalidades estratégicas de negócio com agilidade.
-    Formado em análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
+    Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 </p>
 
 <p align="left">
