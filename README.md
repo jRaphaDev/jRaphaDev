@@ -11,10 +11,6 @@
     Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 
 </p>
-<p align="left">
-  <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
-
-</p>
 
 <p align="left">
   💌 Caso queira entrar em contato ou me seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
@@ -34,3 +30,8 @@
   <a href="https://wa.me/5511992631777" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5511992631777"/></a>
 </p>  
+
+<p align="left">
+  <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
+
+</p>
