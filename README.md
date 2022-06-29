@@ -1,10 +1,18 @@
-<h1>[ Draft ]</h1>
+<h1>Raphael Freitas</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Raphael Freitas.<br>
+  Atuo como tech coordinator no Banco Itaú. 
+Com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribuo com fortes vieses de qualidade, modernização e ownership no delivery de software. </p>
+
+<p align="left">
+  Com mindset de startup desempenha um papel fundamental na experimentação de novas funcionalidades estratégicas de negócio com agilidade.
+Formado em análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passa o Software Craftsmanship.
 </p>
+
+<br>
+
 
 <p align="left">
   🦄 Linguagens: 
