@@ -1,4 +1,8 @@
-<h1>Raphael Freitas</h1>
+<h1>Raphael Freitas
+<img src="./static/mimoje.png" min-width="45px" max-width="45px" width="45x" align="right" alt="Computador iuriCode">
+</h1>
+
+
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
