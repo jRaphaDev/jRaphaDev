@@ -13,7 +13,7 @@
 <br>
 
 <p align="left">
-  💌 Aqui você vai encontrar de todo tipo de tecnologia, se quiser entrar em contato: ⤵️
+  💌 Caso queira entrar em contato ou seguir no linkedin para receber oportunidade de vagas e conteudo de tecnologia e liderença: ⤵️
 </p>
 
 <p align="left">
