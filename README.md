@@ -33,5 +33,6 @@
 </p>  
 
 <p align="right">
-  <img src="./static/mimoje.png" min-width="100px" max-width="100px" width="100x" alt="Computador iuriCode">
+  <img src="./static/mimoje.png" min-width="120px" max-width="120px" width="120x" alt="Mimoje Raphael">
+  
 </p>
