@@ -1,8 +1,4 @@
-<h1>Raphael Freitas
-<img src="./static/mimoje.png" min-width="45px" max-width="45px" width="45x" align="right" alt="Computador iuriCode">
-</h1>
-
-
+<h1>Raphael Freitas</h1>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
@@ -13,6 +9,9 @@
 <p align="left">
     Com mindset de startup desempenho um papel fundamental na disponibilização e experimentação de funcionalidades estratégicas de negócio com agilidade.
     Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
+
+  <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
+
 </p>
 
 <p align="left">
