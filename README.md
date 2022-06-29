@@ -33,5 +33,5 @@
 </p>  
 
 <p align="right">
-  <img src="./static/mimoje.png" min-width="45px" max-width="45px" width="100x" alt="Computador iuriCode">
+  <img src="./static/mimoje.png" min-width="100px" max-width="100px" width="100x" alt="Computador iuriCode">
 </p>
