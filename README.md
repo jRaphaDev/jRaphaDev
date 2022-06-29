@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  💌 Caso queira entrar em contato ou seguir no linkedin para receber oportunidade de vagas e conteudo de tecnologia e liderença: ⤵️
+  💌 Caso queira entrar em contato ou seguir no linkedin para ficar por dentro de oportunidades de trabalho e sobre conteudo de tecnologia e liderença: ⤵️
 </p>
 
 <p align="left">
