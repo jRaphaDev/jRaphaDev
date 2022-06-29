@@ -3,8 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-    Atuando como Líder <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">(Trident Carrer Model)</a> no time de arquitetura de soluções no banco Itaú. 
-    Com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribuo com fortes vieses de qualidade, modernização e ownership no delivery de software. 
+    Atuando como Líder <a href="https://www.thekua.com/atwork/2019/02/the-trident-model-of-career-development/">(Trident Carrer Model)</a> no time de arquitetura de soluções no banco Itaú e com aproximadamente 10 anos de experiência em Delivery de Software e Liderança, contribuo com fortes vieses de qualidade, modernização e ownership no delivery de software. 
 </p>
 
 <p align="left">
@@ -13,9 +12,8 @@
 </p>
 <br>
 
-
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💌 Aqui você vai encontrar de todo tipo de tecnologia, se quiser entrar em contato: ⤵️
 </p>
 
 <p align="left">
