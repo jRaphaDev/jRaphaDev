@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-    Com mindset de startup desempenho um papel fundamental na experimentação de novas funcionalidades estratégicas de negócio com agilidade.
+    Com mindset de startup desempenho um papel fundamental na experimentação de funcionalidades estratégicas de negócio com agilidade.
     Formado em Análise de Sistemas e cursando MBA em Data Science e Big Data, me considero um lifelong learner, cultivando e propagando por onde passo o <a href="https://bytesdontbite.com/2010/10/18/o-que-e-software-craftsmanship/">Software Craftsmanship.</a>
 </p>
 
